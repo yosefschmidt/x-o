@@ -1,0 +1,42 @@
+.O{
+color: blue;
+}
+.X{
+color: red;
+}
+
+#board{
+    height: 350px;
+    /* border: 4px ridge red; */
+    display: grid;
+    
+
+    background-color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+    grid-gap: 10px;
+    background-color: #2196F3;
+    padding: 10px;
+
+}
+.board{
+    background-color: brown;
+    border: 0px;border-style: solid; color: black;
+    color: blueviolet;
+    border: 1px ridge red;
+    height: 40px;
+    border-radius: 1px;
+    height: 100%
+    ;width: 100%;
+    gap: 10px;
+    
+    justify-content: center;
+    text-align: center
+
+    
+}
+.grid {
+    display: grid;
+    grid-column-gap: 10px;
+  }
