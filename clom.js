@@ -1,4 +1,4 @@
-let sumcards=3
+let sumcards=prompt("ghf")
 let countsumcards=0
 const cardsw=[]
 let countsteps=0
